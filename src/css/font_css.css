@@ -1,0 +1,16 @@
+
+@font-face {
+	font-family: 'Tahoma';
+	src: url('fonts/tahoma_regular.eot');
+	src: local('☺'), url('../webfonts/tahoma_regular.woff') format('woff'), url('../webfonts/tahoma_regular.ttf') format('truetype'), url('../webfonts/tahoma_regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Tahoma';
+	src: url('fonts/tahoma_bold.eot');
+	src: local('☺'), url('../webfonts/tahoma_bold.woff') format('woff'), url('../webfonts/tahoma_bold.ttf') format('truetype'), url('../webfonts/tahoma_bold.svg') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
